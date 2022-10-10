@@ -26,3 +26,7 @@ Realizar Login
     Dado que preencho os campos    ${Login}    ${Senha}
     E clico no botão "Entrar"
     #E marco a opção "Lembrar meus dados"
+
+
+Behavior sucess
+    Wait For Response    
